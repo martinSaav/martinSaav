@@ -5,7 +5,7 @@ Hola, mi nombre es Martin Estrada, espero que encontres interesantes mis proyect
 Actualmente estoy estudiando Ingeniería en la Informática en Facultad de Ingeniería de la Universidad de Buenos Aires. Me encanta aprender y experimentar con nuevas tecnologías. Me encanta el desarrollo de software y la programación en general. Me gusta trabajar en equipo, aprender de los demás y enseñar mis conocimientos.
 
 ## 🌐 Contacto:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/martinsaav/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinsaav/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:martintheduck1@gmail.com)
 
 ## 💻 Tecnologías:
